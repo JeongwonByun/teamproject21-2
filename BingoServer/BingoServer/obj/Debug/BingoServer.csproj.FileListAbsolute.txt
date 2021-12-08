@@ -1,0 +1,7 @@
+C:\Users\82107\source\repos\BingoServer-master\BingoServer\bin\Debug\BingoServer.exe.config
+C:\Users\82107\source\repos\BingoServer-master\BingoServer\bin\Debug\BingoServer.exe
+C:\Users\82107\source\repos\BingoServer-master\BingoServer\bin\Debug\BingoServer.pdb
+C:\Users\82107\source\repos\BingoServer-master\BingoServer\obj\Debug\BingoServer.csproj.CoreCompileInputs.cache
+C:\Users\82107\source\repos\BingoServer-master\BingoServer\obj\Debug\BingoServer.exe
+C:\Users\82107\source\repos\BingoServer-master\BingoServer\obj\Debug\BingoServer.pdb
+C:\Users\82107\source\repos\BingoServer-master\BingoServer\obj\Debug\BingoServer.csproj.AssemblyReference.cache
